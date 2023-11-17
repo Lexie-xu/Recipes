@@ -34,7 +34,7 @@ We plan to conduct analysis in the following areas:
 
 ### About the Curator
 
-[Wuhong Xu] is a [master's student studying Digital Humanities at the University of Groningen.] 
+Wuhong Xu a master's student studying Digital Humanities at the University of Groningen. 
 
 ### Source of the Dataset
 
