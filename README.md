@@ -32,9 +32,9 @@ We plan to conduct analysis in the following areas:
 2. **Cooking Techniques:** Analyze cooking methods and steps across regions.
 3. **Flavor Preferences:** Explore taste preferences for the same ingredient in different regions.
 
-### About the Curator
+### Curator
 
-Wuhong Xu a master's student studying Digital Humanities at the University of Groningen. 
+Wuhong Xu
 
 ### Source of the Dataset
 
