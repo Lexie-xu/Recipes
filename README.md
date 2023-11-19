@@ -8,13 +8,13 @@ This project aims to explore cultural and lifestyle differences by analyzing rec
 
 We have collected recipe data from the following regions:
 
-- [Bangladesh](data/Bangladesh.csv)
-- [Canada](data/Canada.csv)
-- [China](data/China.csv)
-- [Cuba](data/Cuba.csv)
-- [Italy](data/Italy.csv)
-- [Spain](data/Spain.csv)
-- [Sweden](data/Sweden.csv)
+- [Bangladesh](data/Bangladesh)
+- [Canada](data/Canada)
+- [China](data/China)
+- [Cuba](data/Cuba)
+- [Italy](data/Italy)
+- [Spain](data/Spain)
+- [Sweden](data/Sweden)
 
 ## Dataset Variables
 
